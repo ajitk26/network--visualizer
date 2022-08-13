@@ -1,0 +1,17 @@
+.snv-home--wrapper {
+  min-height: calc(100vh - 56px);
+  margin-top: 24px;
+  background-color: skyblue;
+
+}
+
+.snv-home--network-visualizer {
+  background-color: greenyellow;
+  border-radius: 45px;
+}
+
+.snv-home--deg-of-seperation {
+  background-color: greenyellow;
+  border-radius: 45px;
+
+}
