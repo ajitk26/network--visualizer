@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <RBNavbar bg="light" expand="lg">
       <Container fluid="lg">
-        <RBNavbar.Brand>SOCIAL NETWORK VISUALIZER</RBNavbar.Brand>
+        <RBNavbar.Brand>NETWORK VISUALIZER</RBNavbar.Brand>
        
       </Container>
     </RBNavbar>
